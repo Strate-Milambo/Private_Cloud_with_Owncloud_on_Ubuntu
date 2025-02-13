@@ -129,4 +129,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 # Interface
-![First interface for resgister](img/h.jpgmon_image.png)
+![First interface for resgister](img/h.jpg)
+<img src="h.jpg" alt="OwnCloud Login" width="500">
