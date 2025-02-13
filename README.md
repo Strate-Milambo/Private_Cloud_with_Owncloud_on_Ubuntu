@@ -124,7 +124,7 @@ A private cloud with OwnCloud allows autonomous file management, ensuring securi
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-**Your Name** - [Your GitHub Profile](https://github.com/yourprofile)
+**Your Name** - [https://github.com/Strate-Milambo](https://github.com/yourprofile)
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
