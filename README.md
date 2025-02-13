@@ -135,5 +135,9 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 *Login Page </br>*
 -----
-![segon interface for login](img/c.jpg)
-<img src="img/c.jpg" alt="OwnCloud Login" >
+![segond interface for login](img/c.jpg)
+
+*Cloud Interface*
+------
+![third interface for our cloud](img/capture.jpg)
+
